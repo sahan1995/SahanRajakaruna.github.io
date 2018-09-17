@@ -1,0 +1,621 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="227eba97-7626-437b-98cc-5e714ae61af3" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www.saerox-design.com/verka/blog_full_width.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www.saerox-design.com/verka/blog_sidebar.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www.saerox-design.com/verka/blog_single_post.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www.saerox-design.com/verka/css/animate.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www.saerox-design.com/verka/css/bootstrap.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www.saerox-design.com/verka/css/font-awesome.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www.saerox-design.com/verka/css/icofont.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www.saerox-design.com/verka/css/icofont.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www.saerox-design.com/verka/css/magnific-popup.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www.saerox-design.com/verka/css/owl.carousel.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www.saerox-design.com/verka/css/owl.theme.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www.saerox-design.com/verka/css/owl.video.play.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www.saerox-design.com/verka/css/responsive.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www.saerox-design.com/verka/css/style.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www.saerox-design.com/verka/fonts/fontawesome-webfont3e6e.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www.saerox-design.com/verka/fonts/fontawesome-webfont3e6e.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www.saerox-design.com/verka/fonts/fontawesome-webfont3e6e.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www.saerox-design.com/verka/fonts/fontawesome-webfont3e6e.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www.saerox-design.com/verka/fonts/fontawesome-webfont3e6e.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www.saerox-design.com/verka/fonts/fontawesome-webfontd41d.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www.saerox-design.com/verka/fonts/glyphicons-halflings-regular-2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www.saerox-design.com/verka/fonts/glyphicons-halflings-regular-3.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www.saerox-design.com/verka/fonts/glyphicons-halflings-regular-4.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www.saerox-design.com/verka/fonts/glyphicons-halflings-regular-5.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www.saerox-design.com/verka/fonts/glyphicons-halflings-regular.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www.saerox-design.com/verka/fonts/glyphicons-halflings-regulard41d.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www.saerox-design.com/verka/images/about.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www.saerox-design.com/verka/images/about.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www.saerox-design.com/verka/images/about1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www.saerox-design.com/verka/images/avatar/01.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www.saerox-design.com/verka/images/avatar/02.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www.saerox-design.com/verka/images/avatar/03.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www.saerox-design.com/verka/images/background/01 .png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www.saerox-design.com/verka/images/background/011.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www.saerox-design.com/verka/images/background/02.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www.saerox-design.com/verka/images/background/03.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www.saerox-design.com/verka/images/blog/01.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www.saerox-design.com/verka/images/blog/02.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www.saerox-design.com/verka/images/blog/03.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www.saerox-design.com/verka/images/blog/04.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www.saerox-design.com/verka/images/blog/05.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www.saerox-design.com/verka/images/blog/06.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www.saerox-design.com/verka/images/blog/07.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www.saerox-design.com/verka/images/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www.saerox-design.com/verka/images/icons/code-design.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www.saerox-design.com/verka/images/icons/competitive-chart.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www.saerox-design.com/verka/images/icons/creative-process.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www.saerox-design.com/verka/images/icons/heart.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www.saerox-design.com/verka/images/icons/java.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www.saerox-design.com/verka/images/icons/light-bulb.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www.saerox-design.com/verka/images/icons/optimization-clock.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www.saerox-design.com/verka/images/icons/timeline.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www.saerox-design.com/verka/images/icons/web-development.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www.saerox-design.com/verka/images/icons/work-team.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www.saerox-design.com/verka/images/loader.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www.saerox-design.com/verka/images/photo/002.xcf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www.saerox-design.com/verka/images/photo/01.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www.saerox-design.com/verka/images/photo/011.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www.saerox-design.com/verka/images/photo/0a1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www.saerox-design.com/verka/images/photo/28576282_1225754620889639_1816663994738643709_n.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www.saerox-design.com/verka/images/photo/git.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www.saerox-design.com/verka/images/photo/mail-envelope.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www.saerox-design.com/verka/images/photo/my.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www.saerox-design.com/verka/images/photo/skype-logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www.saerox-design.com/verka/images/photo/smartphone-outline (1).svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www.saerox-design.com/verka/images/photo/smartphone-outline.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www.saerox-design.com/verka/images/skills/1200px-Visual_Studio_Code_1.18_icon.svg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www.saerox-design.com/verka/images/skills/68747470733a2f2f72656163742e73656d616e7469632d75692e636f6d2f6c6f676f2e706e67.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www.saerox-design.com/verka/images/skills/IntelliJ_IDEA_Logo.svg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www.saerox-design.com/verka/images/skills/Jaspersoft.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www.saerox-design.com/verka/images/skills/Java.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www.saerox-design.com/verka/images/skills/JavaFX_Logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www.saerox-design.com/verka/images/skills/SceneBuilderLogo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www.saerox-design.com/verka/images/skills/angular.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www.saerox-design.com/verka/images/skills/bootstrap-stack.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www.saerox-design.com/verka/images/skills/hibernate.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www.saerox-design.com/verka/images/skills/html.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www.saerox-design.com/verka/images/skills/java .png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www.saerox-design.com/verka/images/skills/javaee.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www.saerox-design.com/verka/images/skills/jpa.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www.saerox-design.com/verka/images/skills/jquery (1).png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www.saerox-design.com/verka/images/skills/jquery.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www.saerox-design.com/verka/images/skills/js.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www.saerox-design.com/verka/images/skills/json-php.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www.saerox-design.com/verka/images/skills/mav.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www.saerox-design.com/verka/images/skills/maven.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www.saerox-design.com/verka/images/skills/mysql.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www.saerox-design.com/verka/images/skills/netbeans-ide-logo-icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www.saerox-design.com/verka/images/skills/php.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www.saerox-design.com/verka/images/skills/spring (1).png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www.saerox-design.com/verka/images/skills/spring.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www.saerox-design.com/verka/images/skills/st-apple-touch-icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www.saerox-design.com/verka/images/testimonial.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www.saerox-design.com/verka/images/work/w1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www.saerox-design.com/verka/images/work/w2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www.saerox-design.com/verka/images/work/w3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www.saerox-design.com/verka/images/work/w4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www.saerox-design.com/verka/images/work/w5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www.saerox-design.com/verka/images/work/w6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www.saerox-design.com/verka/images/work/w7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www.saerox-design.com/verka/images/work/w8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www.saerox-design.com/verka/images/work/w9.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www.saerox-design.com/verka/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www.saerox-design.com/verka/index_video.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www.saerox-design.com/verka/js/bootstrap.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www.saerox-design.com/verka/js/classie.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www.saerox-design.com/verka/js/demo.switcher.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www.saerox-design.com/verka/js/index_slideshow.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www.saerox-design.com/verka/js/jquery.appear.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www.saerox-design.com/verka/js/jquery.magnific-popup.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www.saerox-design.com/verka/js/jquery.waypoints.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www.saerox-design.com/verka/js/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www.saerox-design.com/verka/js/owl.carousel.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www.saerox-design.com/verka/js/portfolio-single.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www.saerox-design.com/verka/js/portfolio.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www.saerox-design.com/verka/js/smooth-scroll.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www.saerox-design.com/verka/js/typed.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www.saerox-design.com/verka/portfolio_2_columns.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www.saerox-design.com/verka/portfolio_3_columns.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www.saerox-design.com/verka/portfolio_single.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www.saerox-design.com/verka/video/video.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www.saerox-design.com/verka/video/video1.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www.saerox-design.com/verka/video/video2.mp4" beforeDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="507">
+              <caret line="983" column="49" lean-forward="true" selection-start-line="983" selection-start-column="49" selection-end-line="983" selection-end-column="49" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>01.</find>
+      <find>03.jpg</find>
+      <find>wrap-h</find>
+      <find>home-vi</find>
+      <find>head</find>
+      <find>home</find>
+      <find>w-c</find>
+      <find>servi</find>
+      <find>body</find>
+      <find>portfolio-item</find>
+      <find>no-pad</find>
+      <find>col</find>
+      <find>icoFacebook</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/www.saerox-design.com/verka/css/responsive.css" />
+        <option value="$PROJECT_DIR$/www.saerox-design.com/verka/css/style.min.css" />
+        <option value="$PROJECT_DIR$/www.saerox-design.com/verka/index.html" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/blog_sidebar.html" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="width" value="1277" />
+    <option name="height" value="817" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="AndroidView" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="FindSahanR" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FindSahanR" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FindSahanR" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FindSahanR" type="462c0819:PsiDirectoryNode" />
+              <item name="www.saerox-design.com" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JavaScript Debug.index.html (1)">
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="index.html (1)" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/FindSahanR/index.html" />
+    <configuration name="index.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/FindSahanR/www.saerox-design.com/verka/index.html" />
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+    <list>
+      <item itemvalue="JavaScript Debug.index.html" />
+      <item itemvalue="JavaScript Debug.index.html (1)" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.index.html (1)" />
+        <item itemvalue="JavaScript Debug.index.html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="227eba97-7626-437b-98cc-5e714ae61af3" name="Default" comment="" />
+      <created>1536683196181</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1536683196181</updated>
+      <workItem from="1536683199590" duration="77000" />
+      <workItem from="1536985705152" duration="1214000" />
+      <workItem from="1537068133635" duration="31814000" />
+      <workItem from="1537126412135" duration="46000" />
+      <workItem from="1537126499396" duration="657000" />
+      <workItem from="1537156446922" duration="137000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="33945000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1920" height="1030" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info id="Image Layers" order="2" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="right" id="Maven Projects" order="3" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Designer" order="2" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="UI Designer" order="2" />
+      <window_info anchor="right" id="Theme Preview" order="3" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/www.saerox-design.com/verka/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="585">
+          <caret line="39" column="35" selection-start-line="39" selection-start-column="35" selection-end-line="39" selection-end-column="35" />
+          <folding>
+            <element signature="n#style#0;n#img#0;n#div#1;n#div#0;n#section#1;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#center#0;n#div#1;n#section#1;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#1;n#div#0;n#center#0;n#div#1;n#section#1;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#2;n#div#0;n#center#0;n#div#1;n#section#1;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#3;n#div#0;n#center#0;n#div#1;n#section#1;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#4;n#div#0;n#center#0;n#div#1;n#section#1;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#5;n#div#0;n#center#0;n#div#1;n#section#1;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www.saerox-design.com/verka/css/style.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38205">
+          <caret line="2547" column="22" selection-start-line="2547" selection-start-column="22" selection-end-line="2547" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www.saerox-design.com/verka/blog_single_post.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www.saerox-design.com/verka/css/font-awesome.min.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www.saerox-design.com/verka/css/magnific-popup.min.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www.saerox-design.com/verka/css/owl.carousel.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www.saerox-design.com/verka/css/owl.theme.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www.saerox-design.com/verka/css/owl.video.play.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www.saerox-design.com/verka/css/responsive.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1965">
+          <caret line="131" selection-start-line="131" selection-end-line="131" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www.saerox-design.com/verka/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="585">
+          <caret line="39" column="35" selection-start-line="39" selection-start-column="35" selection-end-line="39" selection-end-column="35" />
+          <folding>
+            <element signature="n#style#0;n#img#0;n#div#1;n#div#0;n#section#1;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#center#0;n#div#1;n#section#1;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#1;n#div#0;n#center#0;n#div#1;n#section#1;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#2;n#div#0;n#center#0;n#div#1;n#section#1;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#3;n#div#0;n#center#0;n#div#1;n#section#1;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#4;n#div#0;n#center#0;n#div#1;n#section#1;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#5;n#div#0;n#center#0;n#div#1;n#section#1;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www.saerox-design.com/verka/css/style.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38205">
+          <caret line="2547" column="22" selection-start-line="2547" selection-start-column="22" selection-end-line="2547" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www.saerox-design.com/verka/blog_single_post.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www.saerox-design.com/verka/css/font-awesome.min.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www.saerox-design.com/verka/css/magnific-popup.min.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www.saerox-design.com/verka/css/owl.carousel.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www.saerox-design.com/verka/css/owl.theme.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www.saerox-design.com/verka/css/owl.video.play.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www.saerox-design.com/verka/css/responsive.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1965">
+          <caret line="131" selection-start-line="131" selection-end-line="131" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www.saerox-design.com/verka/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="585">
+          <caret line="39" column="35" selection-start-line="39" selection-start-column="35" selection-end-line="39" selection-end-column="35" />
+          <folding>
+            <element signature="n#style#0;n#img#0;n#div#1;n#div#0;n#section#1;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#center#0;n#div#1;n#section#1;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#1;n#div#0;n#center#0;n#div#1;n#section#1;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#2;n#div#0;n#center#0;n#div#1;n#section#1;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#3;n#div#0;n#center#0;n#div#1;n#section#1;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#4;n#div#0;n#center#0;n#div#1;n#section#1;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#5;n#div#0;n#center#0;n#div#1;n#section#1;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www.saerox-design.com/verka/css/style.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38205">
+          <caret line="2547" column="22" selection-start-line="2547" selection-start-column="22" selection-end-line="2547" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www.saerox-design.com/verka/blog_single_post.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www.saerox-design.com/verka/css/font-awesome.min.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www.saerox-design.com/verka/css/magnific-popup.min.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www.saerox-design.com/verka/css/owl.carousel.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www.saerox-design.com/verka/css/owl.theme.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www.saerox-design.com/verka/css/owl.video.play.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www.saerox-design.com/verka/css/responsive.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1965">
+          <caret line="131" selection-start-line="131" selection-end-line="131" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1710">
+          <caret line="114" column="36" lean-forward="true" selection-start-line="114" selection-start-column="36" selection-end-line="114" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www.saerox-design.com/verka/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="27" selection-start-line="7" selection-start-column="27" selection-end-line="7" selection-end-column="27" />
+          <folding>
+            <element signature="n#style#0;n#img#0;n#div#1;n#div#0;n#section#1;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#center#0;n#div#1;n#section#1;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#1;n#div#0;n#center#0;n#div#1;n#section#1;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#2;n#div#0;n#center#0;n#div#1;n#section#1;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#3;n#div#0;n#center#0;n#div#1;n#section#1;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#4;n#div#0;n#center#0;n#div#1;n#section#1;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#5;n#div#0;n#center#0;n#div#1;n#section#1;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www.saerox-design.com/verka/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2595">
+          <caret line="173" column="80" selection-start-line="173" selection-start-column="80" selection-end-line="173" selection-end-column="80" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www.saerox-design.com/verka/images/photo/01.jpg" />
+    <entry file="file://$PROJECT_DIR$/www.saerox-design.com/verka/css/animate.min.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www.saerox-design.com/verka/css/bootstrap.min.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www.saerox-design.com/verka/css/font-awesome.min.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www.saerox-design.com/verka/css/magnific-popup.min.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www.saerox-design.com/verka/css/owl.carousel.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www.saerox-design.com/verka/css/owl.theme.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www.saerox-design.com/verka/css/owl.video.play.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www.saerox-design.com/verka/css/responsive.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1965">
+          <caret line="131" selection-start-line="131" selection-end-line="131" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www.saerox-design.com/verka/blog_single_post.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www.saerox-design.com/verka/css/style.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="748">
+          <caret line="2547" column="22" selection-start-line="2547" selection-start-column="22" selection-end-line="2547" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www.saerox-design.com/verka/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="39" column="35" selection-start-line="39" selection-start-column="35" selection-end-line="39" selection-end-column="35" />
+          <folding>
+            <element signature="n#style#0;n#img#0;n#div#1;n#div#0;n#section#1;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#center#0;n#div#1;n#section#1;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#1;n#div#0;n#center#0;n#div#1;n#section#1;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#2;n#div#0;n#center#0;n#div#1;n#section#1;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#3;n#div#0;n#center#0;n#div#1;n#section#1;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#4;n#div#0;n#center#0;n#div#1;n#section#1;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#5;n#div#0;n#center#0;n#div#1;n#section#1;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog_sidebar.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-4886">
+          <caret line="34" selection-start-line="34" selection-end-line="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="507">
+          <caret line="983" column="49" lean-forward="true" selection-start-line="983" selection-start-column="49" selection-end-line="983" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
